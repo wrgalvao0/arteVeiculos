@@ -24,34 +24,34 @@ a, i{
 
 }
 .obras-destaque{
-    height: 45vh;
+    height: 40vh;
     background-image: url('../img/g_2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .obras-destaque-2{
-    height: 45vh;
+    height: 40vh;
     background-image: url('../img/g_3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-3{
-    height: 45vh;
+    height: 40vh;
     background-image: url('../img/g_4.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-4{
-    height: 45vh;
+    height: 40vh;
     background-image: url('../img/g_5.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-5{
-    height: 45vh;
+    height: 40vh;
     background-image: url('../img/g_6.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -81,4 +81,27 @@ footer{
 #texto-footer{
     font-size: 1.4rem;
     color: white;
+}
+@media (min-width: 992px){
+    .center-image{
+        height: 80vh;
+    }
+}
+@media (min-width: 1024px) and (max-height: 600px){
+    .center-image{
+        height: 60vh;
+    }
+}
+@media (min-width: 1280px) and (max-height: 800px){
+    .center-image{
+        height: 60vh;
+    }
+}
+@media (min-width: 1024px) and (min-height: 1366px){
+    .center-image{
+        height: 40vh;
+    }
+    .image-info{
+        width: 40%;
+    }
 }
