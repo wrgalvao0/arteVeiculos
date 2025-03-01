@@ -9,7 +9,7 @@ a, i{
     color: #555;
 }
 .center-image{
-    background-image: url('/img/g_1.jpg');
+    background-image: url('../img/g_1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
