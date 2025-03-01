@@ -23,6 +23,40 @@ a, i{
     color: white;
 
 }
+.obras-destaque{
+    height: 30vh;
+    background-image: url('../img/g_2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.obras-destaque-2{
+    height: 30vh;
+    background-image: url('../img/g_3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.obras-destaque-3{
+    height: 30vh;
+    background-image: url('../img/g_4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.obras-destaque-4{
+    height: 30vh;
+    background-image: url('../img/g_5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.obras-destaque-5{
+    height: 30vh;
+    background-image: url('../img/g_6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .btn:hover{
     background-color: #333;
     color: #fff;
