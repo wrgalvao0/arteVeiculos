@@ -71,3 +71,14 @@ a, i{
 .image-info{
     background-color: white;
 }
+footer{
+    background-color: #555;
+}
+.bi{
+    font-size: 2.5rem;
+    color: white;
+}
+#texto-footer{
+    font-size: 1.4rem;
+    color: white;
+}
