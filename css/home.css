@@ -13,7 +13,7 @@ a, i{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 40vh;
+    height: 60vh;
 }
 .btn{
     text-decoration: none;
@@ -24,34 +24,34 @@ a, i{
 
 }
 .obras-destaque{
-    height: 30vh;
+    height: 45vh;
     background-image: url('../img/g_2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .obras-destaque-2{
-    height: 30vh;
+    height: 45vh;
     background-image: url('../img/g_3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-3{
-    height: 30vh;
+    height: 45vh;
     background-image: url('../img/g_4.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-4{
-    height: 30vh;
+    height: 45vh;
     background-image: url('../img/g_5.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-5{
-    height: 30vh;
+    height: 45vh;
     background-image: url('../img/g_6.jpg');
     background-size: cover;
     background-repeat: no-repeat;
