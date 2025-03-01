@@ -9,10 +9,11 @@ a, i{
     color: #555;
 }
 .center-image{
-    height: 40vh;
     background-image: url('/img/g_1.jpg');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
 }
 .btn{
     text-decoration: none;
