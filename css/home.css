@@ -9,7 +9,7 @@ a, i{
     color: #555;
 }
 .center-image{
-    background-image: url('../img/g_1.jpg');
+    background-image: url('../img/bmw.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -25,34 +25,34 @@ a, i{
 }
 .obras-destaque{
     height: 40vh;
-    background-image: url('../img/g_2.jpg');
+    background-image: url('../img/muscle-car.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 .obras-destaque-2{
     height: 40vh;
-    background-image: url('../img/g_3.jpg');
+    background-image: url('../img/ford.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-3{
     height: 40vh;
-    background-image: url('../img/g_4.jpg');
+    background-image: url('../img/gol.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-4{
     height: 40vh;
-    background-image: url('../img/g_5.jpg');
+    background-image: url('../img/honda.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .obras-destaque-5{
     height: 40vh;
-    background-image: url('../img/g_6.jpg');
+    background-image: url('../img/luxo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -75,11 +75,11 @@ footer{
     background-color: #555;
 }
 .bi{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: white;
 }
 #texto-footer{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: white;
 }
 @media (min-width: 992px){
