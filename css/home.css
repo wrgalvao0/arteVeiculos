@@ -105,3 +105,6 @@ footer{
         width: 40%;
     }
 }
+.navbar-toggler{
+    border: 0px;
+}
